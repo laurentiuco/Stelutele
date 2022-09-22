@@ -21,4 +21,4 @@
 * Verificare si ascutire creioane
 
 **Vinerea de la 11-12**
-* Sedinte cu invatatoarea
+* Sedinte cu doamna Oana Gîrbacia (invatatoare)
