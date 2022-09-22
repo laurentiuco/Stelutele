@@ -19,3 +19,6 @@
 **Fiecare zi**
 * Pachetel cu mancare :)
 * Verificare si ascutire creioane
+
+**Vinerea de la 11-12**
+* Sedinte cu invatatoarea
