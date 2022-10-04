@@ -4,10 +4,10 @@
 
 | Ora    | Luni   | Marti  | Miercuri | Joi   | Vineri |
 | ------ | ------ | -------- | ------| ------ | ------ |
-| 8:00 - 9:00 |Comunicare in limba romana | Comunicare in limba romana| Comunicare in limba romana | Matematica si explorarea mediului | Dezvoltare Personala |
-| 9:00 - 10:00 | Educatie Fizica* | Matematica si explorarea mediului | Limba Engleza | Comunicare in limba engleza | Arte vizuale si abilitati practice** |
-| 10:00 - 11:00 | Matematica si explorarea mediului | Religie | Matematica si explorarea mediului | Muzica si miscare | Arte vizuale si abilitati practice** |
-|11:00 - 12:00| Dezvoltare personala | Muzica si miscare | Educatie Fizica | Comunicare in limba romana | * |
+| 8:00 - 9:00 |Limba Engleza | Matematica si explorarea mediului| Comunicare in Limba Romana | Dezvoltare Personala | Arte vizuale si abilitati practice** |
+| 9:00 - 10:00 | Comunicare in Limba Romana | Religie | Limba Engleza | Matematica si explorarea mediului | Arte vizuale si abilitati practice** |
+| 10:00 - 11:00 | Matematica si explorarea mediului | Comunicare in Limba Romana | Matematica si explorarea mediului | Comunicare in Limba Romana | Educatie fizica |
+|11:00 - 12:00| Educatie Fizica | Dezvoltare Personala | Muzica si miscare | Muzica si miscare | * |
 
 **Educatie Fizica**
 * Adidasi pentru sala
