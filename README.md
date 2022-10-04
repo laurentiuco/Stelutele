@@ -1,6 +1,6 @@
 # Stelutele
 
-# ORAR (temporar, versiunea 1)
+# ORAR (stabil, versiunea 2)
 
 | Ora    | Luni   | Marti  | Miercuri | Joi   | Vineri |
 | ------ | ------ | -------- | ------| ------ | ------ |
